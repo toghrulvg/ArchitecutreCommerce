@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Persistence.deps.json
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Persistence.dll
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Persistence.pdb
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Application.dll
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Domain.dll
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Application.pdb
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\bin\Debug\net6.0\Arch.Domain.pdb
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.AssemblyInfo.cs
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.csproj.CopyComplete
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.dll
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\refint\Arch.Persistence.dll
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\Arch.Persistence.pdb
+C:\Users\hp\Desktop\Arch\Infrastructure\Arch.Persistence\obj\Debug\net6.0\ref\Arch.Persistence.dll

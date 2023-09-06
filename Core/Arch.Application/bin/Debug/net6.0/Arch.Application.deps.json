@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arch.Application/1.0.0": {
+        "dependencies": {
+          "Arch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Arch.Application.dll": {}
+        }
+      },
+      "Arch.Domain/1.0.0": {
+        "runtime": {
+          "Arch.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

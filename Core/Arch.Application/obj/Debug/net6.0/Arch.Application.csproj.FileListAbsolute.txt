@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\bin\Debug\net6.0\Arch.Application.deps.json
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\bin\Debug\net6.0\Arch.Application.dll
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\bin\Debug\net6.0\Arch.Application.pdb
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\bin\Debug\net6.0\Arch.Domain.dll
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\bin\Debug\net6.0\Arch.Domain.pdb
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.AssemblyInfo.cs
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.csproj.CopyComplete
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.dll
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\refint\Arch.Application.dll
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\Arch.Application.pdb
+C:\Users\hp\Desktop\Arch\Core\Arch.Application\obj\Debug\net6.0\ref\Arch.Application.dll
